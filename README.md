@@ -3,15 +3,19 @@
 
  [![GitHub][github-shield]][github-url]
 
-I am a Full Stack developer with over 20 years of experience in the industry. I specialize in building scalable, maintainable, and high-performance web applications using modern technologies. My main areas of expertise include:
+I am a Full Stack developer with over 20 years of experience in the industry. I specialiSe in building scalable, maintainable, and high-performance web applications using modern technologies. My main areas of expertise include:
 
 - PHP and Laravel
-- JavaScript and Vue.js, React, ReactPHP
+- JavaScript
+- Vue
+- React
+- ReactPHP
 - C#, Visual Basic and .Net
 - Ruby and Python
 - C++ and C
 - HTML, CSS, Bootstrap, Tailwind
-- Nuxt.js, Next.js
+- Nuxt
+- Next
 - Apache Web Server and Nginx
 - Redis, Memcached
 
