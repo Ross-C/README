@@ -5,7 +5,7 @@
 
 I am a Full Stack developer with over 20 years of experience in the industry. I specialiSe in building scalable, maintainable, and high-performance web applications using modern technologies. My main areas of expertise include:
 
-- PHP and Laravel
+- PHP and Laravel <img src="{[BadgeURLHere](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)}" />
 - JavaScript
 - Vue
 - React
